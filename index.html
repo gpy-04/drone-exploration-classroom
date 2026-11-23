@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#f6f5ef">
+  <meta name="description" content="无人机探索课堂：拆开四旋翼与固定翼模型，在八个互动任务中理解飞行、编程与城市空域。">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Crect width='48' height='48' rx='12' fill='%23245b47'/%3E%3Cg fill='none' stroke='%23fffefa' stroke-width='2.5'%3E%3Cpath d='m13 13 22 22m0-22L13 35'/%3E%3Ccircle cx='12' cy='12' r='7'/%3E%3Ccircle cx='36' cy='12' r='7'/%3E%3Ccircle cx='12' cy='36' r='7'/%3E%3Ccircle cx='36' cy='36' r='7'/%3E%3C/g%3E%3C/svg%3E">
+  <title>无人机探索课堂 · 从结构到天空</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="museum.css">
+</head>
+<body>
+  <a class="skip-link" href="#lesson-title">跳到当前活动</a>
+  <header class="lab-header">
+    <a class="lab-brand" href="#rotor/motor" aria-label="无人机探索课堂首页">
+      <svg viewBox="0 0 40 40" fill="none" aria-hidden="true"><path d="m11 11 18 18m0-18L11 29" stroke="currentColor" stroke-width="2.5"/><g stroke="currentColor" stroke-width="2"><circle cx="10" cy="10" r="7"/><circle cx="30" cy="10" r="7"/><circle cx="10" cy="30" r="7"/><circle cx="30" cy="30" r="7"/></g><rect x="16" y="16" width="8" height="8" rx="2" fill="currentColor"/></svg>
+      <span>无人机探索课堂<small>DRONE EXPLORATION CLASSROOM</small></span>
+    </a>
+    <nav class="chapter-nav" aria-label="学习章节">
+      <a href="#museum" data-chapter="museum"><span>00</span>历史博物馆</a>
+      <a href="#rotor/motor" data-chapter="rotor"><span>01</span>认识四旋翼</a>
+      <a href="#wing/airfoil" data-chapter="wing"><span>02</span>探索固定翼</a>
+      <a href="#patrol" data-chapter="patrol"><span>03</span>杭州执法巡航</a>
+      <a href="#flight/assembly" data-chapter="flight"><span>04</span>飞行与空域</a>
+    </nav>
+    <a class="record-link" href="#report"><svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M5 4h14v17H5zM9 2h6v4H9zM9 10h6m-6 4h6" stroke="currentColor" stroke-width="1.5"/></svg>我的学习记录<span id="record-count">0</span></a>
+  </header>
+  <main id="app"></main>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <dialog id="help-dialog"><button class="dialog-close" aria-label="关闭课堂说明">×</button><p class="eyebrow">课堂使用说明</p><h2>先观察，再作出判断。</h2><p>选择左侧活动，在右侧依次完成预测、验证、证据和解释。预测可以修正，不需要输入文字。</p><p>三维模型可以拖动旋转、滚轮缩放；用模型下方按钮切换部件、剖视或拆解。八关实践保留原有玩法、三种递进任务和操作演示。</p><p>学习记录保存在当前浏览器，可导出 JSON 备份并恢复。飞行成绩、课堂发现分别记录。教学模型和虚拟空域不用于真实飞行操作。</p><button class="primary" id="close-help">开始探索</button></dialog>
+  <script src="content.js"></script>
+  <script src="museum.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,219 @@
+{
+  "date": "2026-11-19T06:41:44.614Z",
+  "checks": [
+    {
+      "type": "actual model controls, evidence and finding",
+      "activity": "rotor/motor"
+    },
+    {
+      "type": "actual model controls, evidence and finding",
+      "activity": "rotor/control"
+    },
+    {
+      "type": "actual model controls, evidence and finding",
+      "activity": "rotor/energy"
+    },
+    {
+      "type": "actual model controls, evidence and finding",
+      "activity": "wing/airfoil"
+    },
+    {
+      "type": "actual model controls, evidence and finding",
+      "activity": "wing/surfaces"
+    },
+    {
+      "type": "actual model controls, evidence and finding",
+      "activity": "wing/pusher"
+    },
+    {
+      "type": "China museum observed two points and answered without page navigation",
+      "id": "beijing5"
+    },
+    {
+      "type": "China museum observed two points and answered without page navigation",
+      "id": "ck1"
+    },
+    {
+      "type": "China museum observed two points and answered without page navigation",
+      "id": "phantom"
+    },
+    {
+      "type": "China museum observed two points and answered without page navigation",
+      "id": "agriculture"
+    },
+    {
+      "type": "China museum observed two points and answered without page navigation",
+      "id": "ar500c"
+    },
+    {
+      "type": "China museum observed two points and answered without page navigation",
+      "id": "emergency"
+    },
+    {
+      "type": "embedded game load, idle, actual input",
+      "id": "assembly"
+    },
+    {
+      "type": "embedded game load, idle, actual input",
+      "id": "valley"
+    },
+    {
+      "type": "embedded game load, idle, actual input",
+      "id": "rescue"
+    },
+    {
+      "type": "embedded game load, idle, actual input",
+      "id": "coding"
+    },
+    {
+      "type": "embedded game load, idle, actual input",
+      "id": "patrol"
+    },
+    {
+      "type": "embedded game load, idle, actual input",
+      "id": "changes"
+    },
+    {
+      "type": "embedded game load, idle, actual input",
+      "id": "puzzle"
+    },
+    {
+      "type": "embedded game load, idle, actual input",
+      "id": "sources"
+    },
+    {
+      "type": "demonstration isolated, real coding task solved through mirrored UI and saved"
+    },
+    {
+      "type": "idle and report without evidence cannot score"
+    },
+    {
+      "type": "distant target cannot produce evidence"
+    },
+    {
+      "type": "real keyboard flight and host hover"
+    },
+    {
+      "type": "pause freezes world and exposure"
+    },
+    {
+      "type": "legal target cannot be completed by false accusation"
+    },
+    {
+      "type": "stable capture and evidence based verdict",
+      "case": 3
+    },
+    {
+      "type": "stable capture and evidence based verdict",
+      "case": 0
+    },
+    {
+      "type": "stable capture and evidence based verdict",
+      "case": 2
+    },
+    {
+      "type": "stable capture and evidence based verdict",
+      "case": 1
+    },
+    {
+      "type": "four unique cases, one legal release, capture-time signal retained, duplicate verdict cannot score"
+    },
+    {
+      "type": "records persist across reload"
+    },
+    {
+      "type": "responsive layout",
+      "width": 390,
+      "hash": "#museum"
+    },
+    {
+      "type": "responsive layout",
+      "width": 390,
+      "hash": "#rotor/motor"
+    },
+    {
+      "type": "responsive layout",
+      "width": 390,
+      "hash": "#wing/airfoil"
+    },
+    {
+      "type": "responsive layout",
+      "width": 390,
+      "hash": "#flight/puzzle"
+    },
+    {
+      "type": "responsive layout",
+      "width": 390,
+      "hash": "#patrol"
+    },
+    {
+      "type": "responsive layout",
+      "width": 390,
+      "hash": "#report"
+    },
+    {
+      "type": "responsive layout",
+      "width": 768,
+      "hash": "#museum"
+    },
+    {
+      "type": "responsive layout",
+      "width": 768,
+      "hash": "#rotor/motor"
+    },
+    {
+      "type": "responsive layout",
+      "width": 768,
+      "hash": "#wing/airfoil"
+    },
+    {
+      "type": "responsive layout",
+      "width": 768,
+      "hash": "#flight/puzzle"
+    },
+    {
+      "type": "responsive layout",
+      "width": 768,
+      "hash": "#patrol"
+    },
+    {
+      "type": "responsive layout",
+      "width": 768,
+      "hash": "#report"
+    },
+    {
+      "type": "responsive layout",
+      "width": 1440,
+      "hash": "#museum"
+    },
+    {
+      "type": "responsive layout",
+      "width": 1440,
+      "hash": "#rotor/motor"
+    },
+    {
+      "type": "responsive layout",
+      "width": 1440,
+      "hash": "#wing/airfoil"
+    },
+    {
+      "type": "responsive layout",
+      "width": 1440,
+      "hash": "#flight/puzzle"
+    },
+    {
+      "type": "responsive layout",
+      "width": 1440,
+      "hash": "#patrol"
+    },
+    {
+      "type": "responsive layout",
+      "width": 1440,
+      "hash": "#report"
+    },
+    {
+      "type": "offline file and cross-document bridge work"
+    }
+  ],
+  "errors": []
+}

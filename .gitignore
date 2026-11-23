@@ -1,0 +1,17 @@
+node_modules/
+.env
+.env.*
+!.env.example
+*.log
+*.zip
+.DS_Store
+Thumbs.db
+/output/*
+!/output/validation.json
+!/output/museum-validation.json
+!/output/classroom-desktop.png
+!/output/museum-desktop.png
+!/output/museum-ai-desktop.png
+!/output/museum-future-desktop.png
+!/output/patrol-1440.png
+

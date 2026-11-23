@@ -1,0 +1,59 @@
+{
+  "retrieved": "2026-11-19",
+  "photos": [
+    {
+      "id": "beijing5",
+      "file": "beijing5-history.png",
+      "caption": "北京五号历史飞行照片，收录于北航对研制参与者文传源的纪念报道。",
+      "credit": "北京航空航天大学新闻网",
+      "source": "https://news.buaa.edu.cn/info/1006/43902.htm",
+      "license": "原图版权归原权利人；来源页面未声明开放许可",
+      "modification": "仅按页面尺寸缩放显示；未修改照片主体。"
+    },
+    {
+      "id": "ck1",
+      "file": "ck1.jpg",
+      "caption": "南航航空航天馆中的长空一号实物照片。原图为竖幅，完整保留机体。",
+      "credit": "南京航空航天大学航空航天馆",
+      "source": "https://njhkhtg.nuaa.edu.cn/2023/0805/c18250a316762/page.htm",
+      "license": "原图版权归原权利人；来源页面未声明开放许可",
+      "modification": "仅按页面尺寸缩放显示；未修改照片主体。"
+    },
+    {
+      "id": "phantom",
+      "file": "phantom-family.jpg",
+      "caption": "精灵系列后续 4K 机型实拍，用于展示这一产品家族；不是 2013 年首代机的照片。",
+      "credit": "Suyash Dwivedi / Wikimedia Commons · CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:DJI_Phantom_4K_drone_in_action.jpg",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "modification": "仅按页面尺寸缩放显示；未修改照片主体。"
+    },
+    {
+      "id": "agriculture",
+      "file": "agras.jpg",
+      "caption": "Agras T50 在 2025 年活动中的喷洒演示实拍；展示后续农业机型，不是 2015 年 MG-1。",
+      "credit": "Blervis / Wikimedia Commons · CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:DJI_Agras_T50_demonstrating_sprayers_in_flight.jpg",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "modification": "仅按页面尺寸缩放显示；未修改照片主体。"
+    },
+    {
+      "id": "ar500c",
+      "file": "ar500.jpg",
+      "caption": "航空工业发布的 AR500C 飞行实拍。主旋翼与尾部结构可帮助比较无人直升机和多旋翼。",
+      "credit": "中国航空工业集团有限公司 / 国务院国资委",
+      "source": "https://wap.sasac.gov.cn/n2588025/n2588149/c14724625/content.html",
+      "license": "原图版权归原权利人；来源页面未声明开放许可",
+      "modification": "仅按页面尺寸缩放显示；未修改照片主体。"
+    },
+    {
+      "id": "emergency",
+      "file": "wingloong.jpg",
+      "caption": "2024 年四川汉源救灾报道中的翼龙-2H 现场照片，来源为航空工业。",
+      "credit": "中国航空工业集团有限公司 / 国务院国资委",
+      "source": "https://wap.sasac.gov.cn/n2588025/n2588124/c31282266/content.html",
+      "license": "原图版权归原权利人；来源页面未声明开放许可",
+      "modification": "仅按页面尺寸缩放显示；未修改照片主体。"
+    }
+  ]
+}
