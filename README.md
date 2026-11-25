@@ -8,7 +8,7 @@
 
 ## 八关小游戏独立版
 
-课堂的“飞行与空域”章节现可从“单独打开八关游戏”进入独立大厅。无需进入课堂，也可以直接打开 [`eight-drone-games/index.html`](eight-drone-games/index.html)。适合离线分发的独立 ZIP 可从 GitHub Releases 下载。
+课堂的“飞行与空域”章节现可从“单独打开八关游戏”进入独立大厅。无需进入课堂，也可以直接打开 [`eight-drone-games/index.html`](eight-drone-games/index.html)。第一关包含配件与电池选配、三种飞行策略、风偏修正和手动目标取证；其他七关保留各自的操作机制。适合离线分发的独立 ZIP 可从 GitHub Releases 下载。
 
 ## 打开
 
