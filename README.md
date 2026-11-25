@@ -6,6 +6,10 @@
 
 完整离线包见仓库右侧 Releases。下载 ZIP 并解压后，双击 `无人机探索课堂-双击打开.html`；请保留随包提供的整个课堂文件夹。直接下载仓库源码时，打开仓库根目录的 `index.html` 即可。
 
+## 八关小游戏独立版
+
+课堂的“飞行与空域”章节现可从“单独打开八关游戏”进入独立大厅。无需进入课堂，也可以直接打开 [`eight-drone-games/index.html`](eight-drone-games/index.html)。适合离线分发的独立 ZIP 可从 GitHub Releases 下载。
+
 ## 打开
 
 直接用 Chrome / Edge 打开 `index.html`。两个模型、八关游戏和动漫杭州第一视角巡航均已打包在 `experiments/`，运行不依赖网络。
